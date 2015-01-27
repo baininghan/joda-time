@@ -52,6 +52,7 @@ It depends on JDK 1.5 or later.
 
 Available in the [Maven Central repository](http://search.maven.org/#artifactdetails|joda-time|joda-time|2.7|jar)
 
+- [From IBM about Joda introduction](http://www.ibm.com/developerworks/cn/java/j-jodatime.html)
 
 ### Related projects
 Related projects at GitHub:
